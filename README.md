@@ -6,5 +6,7 @@
 - 🐱‍👤 Strongly Dedicated
 
 <div align="left">
-[![Ayrton top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrton-Machado&theme=red-white)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![Ayrton top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrton-Machado&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+ 
  </div>
