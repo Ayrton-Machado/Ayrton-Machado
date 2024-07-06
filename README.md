@@ -1,7 +1,6 @@
 
 ## Ayrton Soares Machado
-(Python | DJango | HTML | CSS | Git) 
-- 👩‍💻 Software Enginner @[]()
+(Python | Django | HTML | CSS | Git) 
 - 🎓 Computer Information Systems Student @ []()
 - 🐱‍👤 Strongly Dedicated
 
