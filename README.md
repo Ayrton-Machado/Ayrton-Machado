@@ -1,9 +1,8 @@
 
 ## Ayrton Soares Machado
 (Javascript | Python | Django | HTML | CSS | Git) 
-- 🎓 Computer Information Systems Student @[https://www.utfpr.edu.br/](UTFPR)
-- 🐱‍👤 Strongly Dedicated
 
+- 🎓 Computer Information Systems Student @[UTFPR](https://www.utfpr.edu.br/)
 
 <div align="left">
  
