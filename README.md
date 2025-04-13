@@ -1,8 +1,9 @@
 
 ## Ayrton Soares Machado
-(Javascript | Python | Django | HTML | CSS | Git) 
+(Python | Django | Javascript | HTML | CSS | React) 
 
 - 🎓 Computer Information Systems Student @[UTFPR](https://www.utfpr.edu.br/)
+- 🔗 LeetCode profile for algorithm practice: [LeetCode Profile](https://leetcode.com/u/ayrt/)
 
 <div align="left">
  
