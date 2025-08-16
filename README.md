@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer passionate about building useful, secure, and performance-driven web applications, constantly exploring new tools and paradigms — from **CI/CD** to **cybersecurity** and even **AI-powered systems**.
+I'm a developer passionate about building useful, secure, and performance-driven web applications, constantly exploring new tools and paradigms with **AI-powered systems**.
 
 - 🔍 **Going deep** - Mastering fundamentals and system design
 - 🛠️ **Building to last** - Writing maintainable, scalable code
@@ -19,7 +19,7 @@ I'm a full-stack developer passionate about building useful, secure, and perform
 |  **Backend**   | Python,     Django, FastAPI,     Node.js            |
 |  **Frontend**  | React,      JavaScript (ES6+),   Vite               |
 |  **Database**  | PostgreSQL, MySQL,               SQLite             |
-|  **DevOps**    | Git,        CI/CD,               Vercel,      Linux |
+|  **DevOps**    | Git,        Linux,               Vercel,      CI/CD |
 
 #### 🎨 Styling & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,7 +31,7 @@ I'm a full-stack developer passionate about building useful, secure, and perform
 ## 📁 Projects
 
 Here are some of my latest or ongoing projects:
-
+- [IA Análise de Score de Crédito](https://github.com/Ayrton-Machado/score-de-credito-AI) - Projeto para análise de dados e previsão de score de crédito com Scikit-Learn e Pandas
 - [E-commerce Full-Stack](https://github.com/Ayrton-Machado/commerce) - Integração front-end/back-end usando Django, Django REST Framework, React, e Vite.
 
 ## 📊 Stats
