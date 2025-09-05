@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"> I'm passionate about building useful, secure, and performance-driven web applications, constantly exploring new tools and paradigms to integrate <strong>AI-powered systems</strong>. </p> 
+<p align="center">I'm 19 and currently in my 3rd semester of university, and I'm passionate about building useful, secure, and performance-driven web applications, constantly exploring new tools and paradigms to integrate <strong>AI-powered systems</strong>. </p> 
 <p align="center"> <a href="https://linkedin.com/in/ayrton-s-machado/" target="blank"> 
   <img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=flat-square&logo=Linkedin&logoColor=2C2C2C"> 
 </a> 
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Computer Information Systems Student @[UTFPR](https://www.utfpr.edu.br/)
-- 🛠️ Assessor de Projetos - Empresa Júnior @[TYPEX](https://www.linkedin.com/company/ejtypex/)
+- 🛠️ Project Advisor - University Junior Enterprise @[TYPEX](https://www.linkedin.com/company/ejtypex/)
 - 🔗 LeetCode profile for algorithm practice: [LeetCode Profile](https://leetcode.com/u/ayrt/)
 
 ---
