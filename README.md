@@ -24,18 +24,10 @@
 - 🛠️ Project Advisor - University Junior Enterprise @[TYPEX](https://www.linkedin.com/company/ejtypex/)
 - 🔗 LeetCode profile for algorithm practice: [LeetCode Profile](https://leetcode.com/u/ayrt/)
 
----
-
-### 🛠 Tech Stack Highlights
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayrton-Machado&layout=compact&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
 
 ### ⚡ Latest Commit Energy
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayrton-Machado&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayrton-machado&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
